@@ -35,6 +35,11 @@ Provide high level responses to the follwing questions. THen provide 2 aditional
 
 How many roles will need to be filled as people begin to retire?
 
+72,458 roles will need to be filled as people begin to retire. The majority of which are Senior Engineers and Senior Staff as can be seen above. 
+
 Are there enough qualified, retirement ready employees in the departments to mentor the next generation of PH employees?
 
-There are not enough qualified, retirment ready employees in the departments to mentor the next generation of employees. With the existing eligible mentors, mentors will need to have multiple trainees.
+There are not enough qualified, retirment ready employees in the departments to mentor the next generation of employees. With the existing eligible mentors, mentors will need to have multiple trainees. Not only are there not enough total eligible mentors but the eligible mentors do not align with the roles that are retiring. So there's a disproportionate amount of eligible mentors to employees retiring.
+
+![](/Resources/mentor_titles_count.png)
+![](/Resources/mentorship_count.png)
