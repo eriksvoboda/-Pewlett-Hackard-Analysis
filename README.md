@@ -18,9 +18,6 @@ Deliverable 2: The Employees Eligible for the Mentorship Program
   with the third most number of people retiring.
   
   ![](/Resources/retiring_titles.png)
-  
-- As we can see in the retiring_titles photo above, the majority of people retiring are Senior level employees. These are the roles that will be the most 
-  difficult to train and it
 
 - By taking the COUNT of emp_no from the mentorship_eligibility table, we learn that there are only 1,549 people that are eligible to be mentors.
 
