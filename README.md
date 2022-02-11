@@ -18,6 +18,8 @@ Deliverable 2: The Employees Eligible for the Mentorship Program
 
 - By taking the COUNT of emp_no from the mentorship_eligibility table, we learn that there are only 1,549 people that are eligible to be mentors.
 
+  ![](/Resources/mentorship_count.png)
+
 ## Summary
 
 Provide high level responses to the follwing questions. THen provide 2 aditional queries or tables that may provide more insight into the upcoming retirement.
