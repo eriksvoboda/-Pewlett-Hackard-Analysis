@@ -18,6 +18,9 @@ Deliverable 2: The Employees Eligible for the Mentorship Program
   with the third most number of people retiring.
   
   ![](/Resources/retiring_titles.png)
+  
+- As we can see in the retiring_titles photo above, the majority of people retiring are Senior level employees. These are the roles that will be the most 
+  difficult to train and it
 
 - By taking the COUNT of emp_no from the mentorship_eligibility table, we learn that there are only 1,549 people that are eligible to be mentors.
 
@@ -32,3 +35,5 @@ Provide high level responses to the follwing questions. THen provide 2 aditional
 How many roles will need to be filled as people begin to retire?
 
 Are there enough qualified, retirement ready employees in the departments to mentor the next generation of PH employees?
+
+There are not enough qualified, retirment ready employees in the departments to mentor the next generation of employees. With the existing eligible mentors, mentors will need to have multiple trainees.
