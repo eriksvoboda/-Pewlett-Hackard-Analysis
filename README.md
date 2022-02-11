@@ -29,7 +29,7 @@
 
 Provide high level responses to the follwing questions. THen provide 2 aditional queries or tables that may provide more insight into the upcoming retirement.
 
-72,458 roles will need to be filled as people begin to retire. The majority of which are Senior Engineers and Senior Staff as can be seen above. There are not enough qualified, retirment ready employees in the departments to mentor the next generation of employees. With the existing eligible mentors, mentors will need to have multiple trainees. Not only are there not enough total eligible mentors but the eligible mentors do not align with the roles that are retiring. So there's a disproportionate amount of eligible mentors to employees retiring. 
+72,458 roles will need to be filled as people begin to retire. The majority of which are Senior Engineers and Senior Staff as can be seen above. There are not enough qualified, retirment ready employees in the departments to mentor the next generation of employees. With the existing eligible mentors, mentors will need to have multiple trainees. Not only are there not enough total eligible mentors but the eligible mentors do not align with the roles that are retiring. So there's a disproportionate amount of eligible mentors to employees retiring. Another queury that would provide more insight would be to see how many people are retiring by department. 
 
 ![](/Resources/mentor_titles_count.png)
-![](/Resources/mentorship_count.png)
+
