@@ -13,7 +13,10 @@ Deliverable 2: The Employees Eligible for the Mentorship Program
 - By taking the COUNT of emp_no from the retirement_titles table, we can see that there are a total of 133,776 employees that are going to retire.
 - The title with the greatest amount of people retiring is Senior Engineer (25,916 people), followed by Senior Staff (24,926 people), and Engineer (9,285 people
   with the third most number of people retiring.
+  
   ![](/Resources/retiring_titles.png)
+
+- By taking the COUNT of emp_no from the mentorship_eligibility table, we learn that there are only 1,549 people that are eligible to be mentors.
 
 ## Summary
 
