@@ -6,10 +6,6 @@
 
 ## Results
 
-Provide a bullet list with 4 major points from the 2 analysis deliverables. Use images to support
-Deliverable 1: The Number of Retiring Employees by Title
-Deliverable 2: The Employees Eligible for the Mentorship Program
-
 - Before taking filtering for unique titles by taking the COUNT of emp_no from the retirement_titles table, it looks like there are a total of 133,776 employees
   that are going to retire. Afer using DISTINCT ON and creating the unique_titles table and taking the COUNT of emp_no there are a total of 72,458 people that 
   are actually going to retire. 
@@ -33,13 +29,7 @@ Deliverable 2: The Employees Eligible for the Mentorship Program
 
 Provide high level responses to the follwing questions. THen provide 2 aditional queries or tables that may provide more insight into the upcoming retirement.
 
-How many roles will need to be filled as people begin to retire?
-
-72,458 roles will need to be filled as people begin to retire. The majority of which are Senior Engineers and Senior Staff as can be seen above. 
-
-Are there enough qualified, retirement ready employees in the departments to mentor the next generation of PH employees?
-
-There are not enough qualified, retirment ready employees in the departments to mentor the next generation of employees. With the existing eligible mentors, mentors will need to have multiple trainees. Not only are there not enough total eligible mentors but the eligible mentors do not align with the roles that are retiring. So there's a disproportionate amount of eligible mentors to employees retiring.
+72,458 roles will need to be filled as people begin to retire. The majority of which are Senior Engineers and Senior Staff as can be seen above. There are not enough qualified, retirment ready employees in the departments to mentor the next generation of employees. With the existing eligible mentors, mentors will need to have multiple trainees. Not only are there not enough total eligible mentors but the eligible mentors do not align with the roles that are retiring. So there's a disproportionate amount of eligible mentors to employees retiring. 
 
 ![](/Resources/mentor_titles_count.png)
 ![](/Resources/mentorship_count.png)
