@@ -23,6 +23,10 @@ Deliverable 2: The Employees Eligible for the Mentorship Program
 
   ![](/Resources/mentorship_count.png)
   
+- The three top titles that are eligible to be mentors are Senior Staff, Engineer, and Senior Engineer.
+
+  ![](/Resources/mentor_titles_count.png)
+  
 
 
 ## Summary
